@@ -3,7 +3,7 @@
 	"title": "Genesys Base Compendiums (RU)",
 	"description": "Сеттинго-независимые данные базы Genesys",
 	"author": "AlexToxin",
-	"version": "0.9.4",
+	"version": "0.9.5",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "0.8.8",
 	"packs": [
@@ -80,9 +80,6 @@
 			"path": "packs/baza-snaryazhenie.db"
 		}
 	],
-	"url": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums",
-	"manifest": "https://raw.githubusercontent.com/AlexToxin/GenesysRu-BaseCompendiums/master/module.json",
-	"download": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums/archive/refs/heads/master.zip",
 	"dependencies": [
 		{
 			"name": "starwarsffg",
