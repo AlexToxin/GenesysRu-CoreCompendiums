@@ -3,7 +3,7 @@
 	"title": "Genesys Base Compendiums (RU)",
 	"description": "Сеттинго-независимые данные базы Genesys",
 	"author": "AlexToxin",
-	"version": "0.9.3",
+	"version": "0.9.4",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "0.8.8",
 	"packs": [
@@ -11,121 +11,73 @@
 			"name": "baza-arhetipy",
 			"label": "База - Архетипы",
 			"path": "packs/baza-arhetipy.db",
-			"entity": "Item",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"entity": "Item"
 		},
 		{
 			"label": "База - Карьеры",
 			"entity": "Item",
 			"name": "baza-karery",
-			"path": "packs/baza-karery.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-karery.db"
 		},
 		{
 			"label": "База - Таблицы",
 			"entity": "RollTable",
 			"name": "baza-tablicy",
-			"path": "packs/baza-tablicy.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-tablicy.db"
 		},
 		{
 			"label": "База - Критические травмы",
 			"entity": "Item",
 			"name": "baza-kriticheskie-travmy",
-			"path": "packs/baza-kriticheskie-travmy.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-kriticheskie-travmy.db"
 		},
 		{
 			"name": "baza-talanty-1-ur",
 			"label": "База - Таланты (1 ур)",
 			"path": "packs/baza-talanty-1-ur.db",
-			"entity": "Item",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"entity": "Item"
 		},
 		{
 			"label": "База - Таланты (2 ур)",
 			"entity": "Item",
 			"name": "baza-talanty-2-ur",
-			"path": "packs/baza-talanty-2-ur.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-talanty-2-ur.db"
 		},
 		{
 			"label": "База - Таланты (5 ур)",
 			"entity": "Item",
 			"name": "baza-talanty-5-ur",
-			"path": "packs/baza-talanty-5-ur.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-talanty-5-ur.db"
 		},
 		{
 			"label": "База - Таланты (3 ур)",
 			"entity": "Item",
 			"name": "baza-talanty-3-ur",
-			"path": "packs/baza-talanty-3-ur.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-talanty-3-ur.db"
 		},
 		{
 			"label": "База - Таланты (4 ур)",
 			"entity": "Item",
 			"name": "baza-talanty-4-ur",
-			"path": "packs/baza-talanty-4-ur.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-talanty-4-ur.db"
 		},
 		{
 			"label": "База - Свойства снаряжения",
 			"entity": "Item",
 			"name": "baza-svojstva-snaryazheniya",
-			"path": "packs/baza-svojstva-snaryazheniya.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-svojstva-snaryazheniya.db"
 		},
 		{
 			"label": "База - Противники",
 			"entity": "Actor",
 			"name": "baza-protivniki",
-			"path": "packs/baza-protivniki.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-protivniki.db"
 		},
 		{
 			"label": "База - Снаряжение",
 			"entity": "Item",
 			"name": "baza-snaryazhenie",
-			"path": "packs/baza-snaryazhenie.db",
-			"module": "GenesysRu-BaseCompendiums",
-			"system": [
-				"starwarsffg"
-			]
+			"path": "packs/baza-snaryazhenie.db"
 		}
 	],
 	"url": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums",
@@ -133,19 +85,19 @@
 	"download": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums/archive/refs/heads/master.zip",
 	"dependencies": [
 		{
-		  "name": "starwarsffg",
-		  "type": "system"
+			"name": "starwarsffg",
+			"type": "system"
 		}
 	],
 	"authors": [
 		{
-		  "name": "AlexToxin"
+			"name": "AlexToxin"
 		},
 		{
-		  "name": "Florintini"
+			"name": "Florintini"
 		},
 		{
-		  "name": "Blackburn"
+			"name": "Blackburn"
 		}
-	  ]
+	]
 }
