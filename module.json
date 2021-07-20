@@ -3,7 +3,7 @@
 	"title": "Genesys Base Compendiums (RU)",
 	"description": "Сеттинго-независимые данные базы Genesys",
 	"author": "AlexToxin",
-	"version": "0.9.7",
+	"version": "0.9.8",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "0.8.8",
 	"url": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums",
@@ -14,73 +14,85 @@
 			"name": "baza-arhetipy",
 			"label": "База - Архетипы",
 			"path": "packs/baza-arhetipy.db",
-			"entity": "Item"
+			"entity": "Item",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Карьеры",
 			"entity": "Item",
 			"name": "baza-karery",
-			"path": "packs/baza-karery.db"
+			"path": "packs/baza-karery.db",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Таблицы",
 			"entity": "RollTable",
 			"name": "baza-tablicy",
-			"path": "packs/baza-tablicy.db"
+			"path": "packs/baza-tablicy.db",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Критические травмы",
 			"entity": "Item",
 			"name": "baza-kriticheskie-travmy",
-			"path": "packs/baza-kriticheskie-travmy.db"
+			"path": "packs/baza-kriticheskie-travmy.db",
+			"system": "starwarsffg"
 		},
 		{
 			"name": "baza-talanty-1-ur",
 			"label": "База - Таланты (1 ур)",
 			"path": "packs/baza-talanty-1-ur.db",
-			"entity": "Item"
+			"entity": "Item",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Таланты (2 ур)",
 			"entity": "Item",
 			"name": "baza-talanty-2-ur",
-			"path": "packs/baza-talanty-2-ur.db"
+			"path": "packs/baza-talanty-2-ur.db",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Таланты (5 ур)",
 			"entity": "Item",
 			"name": "baza-talanty-5-ur",
-			"path": "packs/baza-talanty-5-ur.db"
+			"path": "packs/baza-talanty-5-ur.db",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Таланты (3 ур)",
 			"entity": "Item",
 			"name": "baza-talanty-3-ur",
-			"path": "packs/baza-talanty-3-ur.db"
+			"path": "packs/baza-talanty-3-ur.db",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Таланты (4 ур)",
 			"entity": "Item",
 			"name": "baza-talanty-4-ur",
-			"path": "packs/baza-talanty-4-ur.db"
+			"path": "packs/baza-talanty-4-ur.db",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Свойства снаряжения",
 			"entity": "Item",
 			"name": "baza-svojstva-snaryazheniya",
-			"path": "packs/baza-svojstva-snaryazheniya.db"
+			"path": "packs/baza-svojstva-snaryazheniya.db",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Противники",
 			"entity": "Actor",
 			"name": "baza-protivniki",
-			"path": "packs/baza-protivniki.db"
+			"path": "packs/baza-protivniki.db",
+			"system": "starwarsffg"
 		},
 		{
 			"label": "База - Снаряжение",
 			"entity": "Item",
 			"name": "baza-snaryazhenie",
-			"path": "packs/baza-snaryazhenie.db"
+			"path": "packs/baza-snaryazhenie.db",
+			"system": "starwarsffg"
 		}
 	],
 	"dependencies": [
