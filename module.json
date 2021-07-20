@@ -6,6 +6,9 @@
 	"version": "0.9.6",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "0.8.8",
+	"url": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums",
+	"manifest": "https://raw.githubusercontent.com/AlexToxin/GenesysRu-BaseCompendiums/master/module.json",
+	"download": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums/archive/refs/heads/master.zip",
 	"packs": [
 		{
 			"name": "baza-arhetipy",
