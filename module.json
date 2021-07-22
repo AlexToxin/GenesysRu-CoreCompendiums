@@ -1,14 +1,14 @@
 {
-	"name": "GenesysRu-BaseCompendiums",
-	"title": "Genesys Base Compendiums (RU)",
+	"name": "GenesysRu-CoreCompendiums",
+	"title": "Genesys Core Compendiums (RU)",
 	"description": "Сеттинго-независимые данные базы Genesys",
 	"author": "AlexToxin",
-	"version": "1.0",
+	"version": "1.0.1",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "0.8.8",
-	"url": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums",
-	"manifest": "https://raw.githubusercontent.com/AlexToxin/GenesysRu-BaseCompendiums/master/module.json",
-	"download": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums/archive/refs/heads/master.zip",
+	"url": "https://github.com/AlexToxin/GenesysRu-CoreCompendiums",
+	"manifest": "https://raw.githubusercontent.com/AlexToxin/GenesysRu-CoreCompendiums/master/module.json",
+	"download": "https://github.com/AlexToxin/GenesysRu-CoreCompendiums/archive/refs/heads/master.zip",
 	"packs": [
 		{
 			"name": "baza-arhetipy",
